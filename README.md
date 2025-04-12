@@ -138,8 +138,8 @@ pytest tests/
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/satellite-explorer](https://github.com/yourusername/satellite-explorer)
+Your Name - [@Hanzila Bin Younas](https://www.linkedin.com/in/hanzila-bin-younas-609263293)
+Project Link: [https://github.com/hanzila1/satellite-explorer](https://github.com/yourusername/satellite-explorer)
 
 ## Acknowledgments
 - NumPy community for numerical computing support
